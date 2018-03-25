@@ -5,7 +5,7 @@ Recurrent Neural Network
 RNN using word embedding for analysis
 
 Results:
-Average accuracy 76% Average loss 55%
+Accuracy 76% Loss 55%
   
 Accuracy Step
 ![alt text](https://raw.githubusercontent.com/gnterrell/Deep_Learning_Project3/master/Accuracy_Step.PNG "accuracystep")    

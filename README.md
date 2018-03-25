@@ -3,6 +3,7 @@ Recurrent Neural Network
 
 # Sentiment Analysis
 RNN using word embedding for analysis
+Average accuracy 76% Average loss 55%
   
 Accuracy Step
 ![alt text](https://raw.githubusercontent.com/gnterrell/Deep_Learning_Project3/master/Accuracy_Step.PNG "accuracystep")    

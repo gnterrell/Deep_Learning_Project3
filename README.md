@@ -2,7 +2,7 @@
 Recurrent Neural Network
 
 # Sentiment Analysis
-RNN with word embedding
+RNN using word embedding for analysis
   
 Accuracy Step
 ![alt text](https://raw.githubusercontent.com/gnterrell/Deep_Learning_Project3/master/Accuracy_Step.PNG "accuracystep")    
